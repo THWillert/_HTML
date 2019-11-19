@@ -1,4 +1,4 @@
-# _POP3
+# _HTML
 
 ## Übersicht
 AutoIt UDF zum Extrahieren von Informationen aus HTML-Quelltext, mit folgenden Funktionen:
