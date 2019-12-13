@@ -23,14 +23,14 @@ $_HTML_SEARCHMODE = 1
 ;(RegExp: 0 = Compare / 1 = Substring) (String: 2 = Compare / 3 = Substring)
 ```
 
-### Voraussetzungen
+## Voraussetzungen
 AutoIt
 
-### Installation
+## Installation
 In das AutoIt Include Verzeichnis kopieren.
 
 ## Diskussion / Vorschläge
-
+...
 
 ## ToDo
 
