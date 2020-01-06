@@ -8,7 +8,7 @@ AutoIt UDF zum Extrahieren von Informationen aus HTML-Quelltext, mit folgenden F
 | _HTML_ExtractURLVar|Extrahiert eine URL-Variable aus einer URL.|
 | _HTML_Get|Liefert einen Wert, anhand Verschiedener Atrribute wie: class, id, title usw.|
 | _HTML_GetAllLinks|Gibt ein Array mit allen Links zurück.|
-| _HTML_GetImageSrc|Gibt die Quelle eines Nildes zurück.|
+| _HTML_GetImageSrc|Gibt die Quelle eines Bildes zurück.|
 | _HTML_GetLink|Gibt ein URL zurück, die den Parametern entspricht.|
 | _HTML_GetSource|Liefert den Quelltext einer Seite zurück. Scripte werden herausgefiltert.|
 | _HTML_GetTable|Liefert den Inhalt einer Tabelle als 2D-Array.|
