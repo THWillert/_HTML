@@ -41,7 +41,7 @@ Die Reihenfolge entspricht keiner Priorität.
 ## Author
 Thorsten Willert
 
-[Homepage](http://www.thorsten-willert.de/)
+[Homepage](https://www.thorsten-willert.de/software/autoit/autoit-udfs/html-udf)
 
 ## Lizenz
 Das ganze steht unter der [Apache 2.0](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz.
